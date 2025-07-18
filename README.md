@@ -1,3 +1,6 @@
+
+<img src="images/pangenome_art.png" alt="Figure 1: overview diagram" width="100%" />
+
 # Human Pangenome Project (HPP) T2T Assembly Initiative
 
 ## Welcome  
@@ -20,7 +23,11 @@ Together, we have the opportunity to shape this reference by co-producing assemb
 
 ## Project Timeline
 
-### Overview of Important Tentative Dates
+### Overview  
+
+![Figure 1: overview diagram](images/timeline.png)
+
+### Important Tentative Dates
 
 | Milestone                                                   | Date                     |
 |-------------------------------------------------------------|--------------------------|
