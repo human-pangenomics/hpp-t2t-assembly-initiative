@@ -116,8 +116,3 @@ We are planning to finalize our assembly production plans by **Dec 2025**, and w
 
 [Enter here]
 
----
-
-**GitHub Repository:** https://github.com/human-pangenomics/hpp-t2t-assembly-initiative
-
-*This proposal is hosted as a README on a GitHub repo to allow easy sharing and referencing. The final version will mirror this document.*
