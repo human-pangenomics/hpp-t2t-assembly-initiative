@@ -1,6 +1,7 @@
 
-<img src="images/pangenome_art.png" alt="Figure 1: overview diagram" width="100%" style="max-height: 100px; object-fit: cover;" />
-
+<div style="width: 100%; height: 200px; overflow: hidden;">
+  <img src="images/pangenome_art.png" alt="Figure 1: overview diagram" style="width: 100%; height: auto; min-height: 200px; object-fit: cover;" />
+</div>
 
 # Human Pangenome Project (HPP) T2T Assembly Initiative
 
