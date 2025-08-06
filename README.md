@@ -1,5 +1,5 @@
 
-<img src="images/pangenome_art.png" alt="Figure 1: overview diagram" width="100%" />
+<img src="images/pangenome_art.png" alt="Figure 1: overview diagram" width="100%" style="max-height: 100px; object-fit: cover;" />
 
 
 # Human Pangenome Project (HPP) T2T Assembly Initiative
