@@ -128,7 +128,7 @@ Optional data types:
 
 ## Benchmark Assembly Data – HG002
 
-This task team will work together to refine and advance T2T assembly methods and workflows in preparation for the upcoming release planned for Summer 2026.
+This task team will work together to refine and advance T2T assembly methods and workflows in preparation for the upcoming release planned for mid-year 2026.
 
 HG002-Q100 Assembly: https://github.com/marbl/HG002  
 
