@@ -102,7 +102,7 @@ To support coordination across international partners, we will provide a priorit
 
 This table will be updated/versioned regularly as teams share information about production efforts. Please contact Karen Miga or Ann McCartney to confirm your interest in data generation as soon as possible (with expectations of confirmation before Nov 15, 2025)
 
-**LINK TO TABLE OF 1000G CELL LINES**
+[**LINK TO TABLE OF 1000G CELL LINES**](https://docs.google.com/spreadsheets/d/1gOK4_13y3wHmIlAy65OOH7H2r3HxDK7Rdv_9H_V3SKA/edit?usp=sharing)
 
 ---
 
@@ -116,9 +116,9 @@ To meet the goals of the July 2026 Release 3, we ask that all teams contributing
 
 | Technology | Platform / Kit | Coverage | Read Length / Notes |
 |-----------|----------------|----------|---------------------|
-| PacBio HiFi | Revio (2 SMRT Cells) | ~60× | HiFi reads with ~20 kb insert sizes; high accuracy long reads ideal for primary assembly and polishing |
-| Oxford Nanopore Ultra-Long (UL) | R1041, >sup@v5.0.0, 5mCG_5hmCG | ~30× (100 kb+) | Ultra-long read lengths are defined as >100 kb |
-| Hi-C | Dovetail Omni-C (optional) | ~30× | For scaffolding; Arima, PoreC or other kits acceptable |
+| PacBio HiFi | Revio (2 SMRT Cells) | ~60× | HiFi reads with ~20 kb insert sizes; high accuracy long reads ideal for primary assembly and polishing. [HPRC Protocol](https://docs.google.com/document/d/1LJqd1X-OnVR3ypukQ4xxjH9IayomEeiMQBnu09F5XAE/edit?usp=sharing)  |
+| Oxford Nanopore Ultra-Long (UL) | R1041, >sup@v5.0.0, 5mCG_5hmCG | ~30× (100 kb+) | Ultra-long read lengths are defined as >100 kb. [HPRC Protocol (DNA extraction) HPRC Protocol (ULK Library Prep)](https://drive.google.com/file/d/1oRrYJasfvUfJuNLGerhSMC9Tl3dreVIn/view?usp=sharing)|
+| Hi-C | Dovetail Omni-C (optional) | ~30× | For scaffolding; Arima, PoreC or other kits acceptable. [HPRC Protocol](https://drive.google.com/file/d/1-7itT8_W1ACClSENNyj6ydP0MSTA-a6E/view?usp=sharing) |
 
 Optional data types:  
 - Fiber-seq Protocol (~50–60× coverage)  
