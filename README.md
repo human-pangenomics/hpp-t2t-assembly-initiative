@@ -132,6 +132,8 @@ This task team will work together to refine and advance T2T assembly methods and
 
 HG002-Q100 Assembly: https://github.com/marbl/HG002  
 
+HPRC V3 Assembly Recipe (Verkko with Hifiasm Correction): https://github.com/marbl/HG002/blob/benchmark/Assembly_benchmarking.md
+
 HG002 "Q100" benchmarking genome:  
 https://www.biorxiv.org/content/10.1101/2025.09.21.677443v1
 
